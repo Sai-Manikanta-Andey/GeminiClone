@@ -30,8 +30,7 @@ Clone the Repository: Download the project files to your local machine using Git
 
 2.Create a file named .env in your project's root directory. Inside this file, add the following line, replacing YOUR_API_KEY with your actual Gemini API key:.
 
-    ```bash
-   API_KEY=import.meta.env.YOUR_API_KEY
+    ```bash API_KEY = import.meta.env.YOUR_API_KEY
 
    
 
