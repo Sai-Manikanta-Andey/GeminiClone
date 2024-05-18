@@ -11,15 +11,20 @@ Gemini makes complex AI technology accessible, allowing you to complete tasks an
 
 ## Features ⚡
 Conversational Interface: Interact with Gemini in a natural way, just like having a chat.
+
 Realistic Typing Effect: Experience a more immersive feel with simulated typing during responses.
+
 Powered by Google Gemini: Leverage the cutting-edge capabilities of Google's Gemini model for informative answers.
 
 ## Technologies ⚙️
 React.js: Build a smooth and dynamic user interface with this popular frontend framework.
+
 Gemini API Integration: Access the power of Gemini's functionalities through its dedicated API.
+
 CSS Styling: Craft a visually appealing user interface with Cascading Style Sheets.
-Getting Started
-Clone the Repository: Download the project files to your local machine using Git:
+
+
+
 
 ## Getting Started 🚦
 1. Clone the repository to your local machine.
